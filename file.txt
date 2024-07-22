@@ -1,4 +1,2 @@
-My first line in project
-adas 
-sec moscow 
+My first line in project 
 France
